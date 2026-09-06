@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "product": "moreFaya",
+  "release": "0.2.0",
+  "channel": "stable",
+  "components": {
+    "teensy": {
+      "component": "teensy",
+      "version": "0.2.0",
+      "protocol": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+      },
+      "required": true,
+      "file": "morefaya-teensy41-v0.2.0-b000484.hex",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.0/morefaya-teensy41-v0.2.0-b000484.hex",
+      "sha256": "4e90ab6b0362968da25299278b9d29110083ada20275a2ae7dded12c7f0dbfb8",
+      "size": 688474
+    },
+    "main_esp32": {
+      "component": "main_esp32",
+      "version": "0.2.0",
+      "protocol": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+      },
+      "required": true,
+      "file": "morefaya-esp32s3-v0.2.0-b000484.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.0/morefaya-esp32s3-v0.2.0-b000484.bin",
+      "sha256": "e7cecce623b8a5b4c5a5a9c98b7792207a4c51b4e0849aedbc0e2f57ec6fa7a9",
+      "size": 1218096
+    },
+    "controller_esp32": {
+      "component": "controller_esp32",
+      "version": "0.2.0",
+      "protocol": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+      },
+      "required": false,
+      "file": "morefaya-devcontroller-v0.2.0-b000484.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.0/morefaya-devcontroller-v0.2.0-b000484.bin",
+      "sha256": "a26473d7a439642d665e412f59b65e56f0eb00195a301aff7595f02a30e9b010",
+      "size": 308320,
+      "controllerType": "devcontroller"
+    },
+    "main_esp32_littlefs": {
+      "component": "main_esp32_littlefs",
+      "version": "0.2.0",
+      "protocol": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+      },
+      "required": false,
+      "file": "morefaya-esp32s3-littlefs-v0.2.0-b000484.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.0/morefaya-esp32s3-littlefs-v0.2.0-b000484.bin",
+      "sha256": "de98846cfaf7d7f90d5ea9759c331e8a34fbb202ead0fa9183f86b8aba2c9e8b",
+      "size": 3538944
+    }
+  }
+}

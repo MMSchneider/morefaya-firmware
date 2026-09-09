@@ -13,9 +13,9 @@
         "patch": 0
       },
       "required": true,
-      "file": "morefaya-teensy41-v0.2.4-b000534.hex",
-      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-teensy41-v0.2.4-b000534.hex",
-      "sha256": "0dd4e56c65938cc1514aeb3cbf2239a852d521c7785c642d2384effc5a8fde10",
+      "file": "morefaya-teensy41-v0.2.4-b000536.hex",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-teensy41-v0.2.4-b000536.hex",
+      "sha256": "fd564c701bba818c9d747522fefbf6abe62f1b80656e0463059e237fd0e00f4d",
       "size": 688474
     },
     "main_esp32": {
@@ -27,10 +27,10 @@
         "patch": 0
       },
       "required": true,
-      "file": "morefaya-esp32s3-v0.2.4-b000534.bin",
-      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-esp32s3-v0.2.4-b000534.bin",
-      "sha256": "a3898318eba5f80dc4532bdc4eb2c87fa5714dd58fac543df694bf398a288275",
-      "size": 1227376
+      "file": "morefaya-esp32s3-v0.2.4-b000536.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-esp32s3-v0.2.4-b000536.bin",
+      "sha256": "83dd6db898cae7131ad34f4cf898b867963bbe105d2c997cf27edbb117c2c2eb",
+      "size": 1230544
     },
     "controller_esp32": {
       "component": "controller_esp32",
@@ -41,9 +41,9 @@
         "patch": 0
       },
       "required": false,
-      "file": "morefaya-devcontroller-v0.2.4-b000534.bin",
-      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-devcontroller-v0.2.4-b000534.bin",
-      "sha256": "7873e6f5dd604b310982628d2e535f9fff578f7c49d3e46d0ffa0dab4b710078",
+      "file": "morefaya-devcontroller-v0.2.4-b000536.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-devcontroller-v0.2.4-b000536.bin",
+      "sha256": "4072788c08f9bafdb5a28cf9440319304aee82862180809713e6b4a6c98a4862",
       "size": 308528,
       "controllerType": "devcontroller"
     },
@@ -56,9 +56,9 @@
         "patch": 0
       },
       "required": false,
-      "file": "morefaya-esp32s3-littlefs-v0.2.4-b000534.bin",
-      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-esp32s3-littlefs-v0.2.4-b000534.bin",
-      "sha256": "45f7c7ea66e26e725c6de1c147cd1108fb79399f72bd38477ddd0cdb808e6933",
+      "file": "morefaya-esp32s3-littlefs-v0.2.4-b000536.bin",
+      "url": "https://github.com/MMSchneider/morefaya-firmware/releases/download/firmware-v0.2.4/morefaya-esp32s3-littlefs-v0.2.4-b000536.bin",
+      "sha256": "1bba17075e603bf38d9c2fbff0d62fe6db6f832750b58999856774e32db3bfc5",
       "size": 3538944
     }
   }
